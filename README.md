@@ -1,6 +1,6 @@
 # Driving-Pattern-Classification
 
-roject: Driving Pattern Classification with vehicle driving data
+Project: Driving Pattern Classification with vehicle driving data
   - Depending on the Driving Pattern, we could control the vehicle efficiently and adapt the classification result in various ways.
 
 Dataset : https://www.kaggle.com/veeralakrishna/aggressive-driving-data
